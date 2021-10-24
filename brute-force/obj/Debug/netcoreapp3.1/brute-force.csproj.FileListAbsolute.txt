@@ -1,0 +1,14 @@
+C:\Users\uysal\source\repos\brute-force\brute-force\bin\Debug\netcoreapp3.1\brute-force.exe
+C:\Users\uysal\source\repos\brute-force\brute-force\bin\Debug\netcoreapp3.1\brute-force.deps.json
+C:\Users\uysal\source\repos\brute-force\brute-force\bin\Debug\netcoreapp3.1\brute-force.runtimeconfig.json
+C:\Users\uysal\source\repos\brute-force\brute-force\bin\Debug\netcoreapp3.1\brute-force.runtimeconfig.dev.json
+C:\Users\uysal\source\repos\brute-force\brute-force\bin\Debug\netcoreapp3.1\brute-force.dll
+C:\Users\uysal\source\repos\brute-force\brute-force\bin\Debug\netcoreapp3.1\brute-force.pdb
+C:\Users\uysal\source\repos\brute-force\brute-force\obj\Debug\netcoreapp3.1\brute-force.csproj.AssemblyReference.cache
+C:\Users\uysal\source\repos\brute-force\brute-force\obj\Debug\netcoreapp3.1\brute-force.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uysal\source\repos\brute-force\brute-force\obj\Debug\netcoreapp3.1\brute-force.AssemblyInfoInputs.cache
+C:\Users\uysal\source\repos\brute-force\brute-force\obj\Debug\netcoreapp3.1\brute-force.AssemblyInfo.cs
+C:\Users\uysal\source\repos\brute-force\brute-force\obj\Debug\netcoreapp3.1\brute-force.csproj.CoreCompileInputs.cache
+C:\Users\uysal\source\repos\brute-force\brute-force\obj\Debug\netcoreapp3.1\brute-force.dll
+C:\Users\uysal\source\repos\brute-force\brute-force\obj\Debug\netcoreapp3.1\brute-force.pdb
+C:\Users\uysal\source\repos\brute-force\brute-force\obj\Debug\netcoreapp3.1\brute-force.genruntimeconfig.cache
